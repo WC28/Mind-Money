@@ -1,5 +1,3 @@
-# Mind-Money
-Mind &amp; Money: Mapping the Mental Health Impact of Unemployment in Thailand (2020–2025)
 # 🇹🇭 Mind & Money: Mapping the Mental Health Impact of Unemployment in Thailand (2020–2025)
 
 > 💡 A unique intersection of data science, social work, and mental health research — visualizing how economic instability affects the Thai population's well-being.
