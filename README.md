@@ -72,9 +72,9 @@ Mental health is more than a clinical issue. It is a **social and economic emerg
 - Demonstrate the value of **integrated social work + digital health + data science**
 
 ## 📬 Contact
-Made by: [Grace (วิฏฐิรษา แช่มพิชาญโยธิน)]  
+Made by: [Grace Witthirasa Chaemphichanyotin (วิฏฐิรษา แช่มพิชาญโยธิน)]  
 Social Worker | Data Analyst | Future HealthTech Leader  
-✉️ graciebabiegal@gmail.com | GitHub: [@graciebabiegal](https://github.com/yourusername)
+✉️ wc.witthirasa@gmail.com | GitHub: [@WC28](https://github.com/WC28)
 
 ## 📄 License
 MIT License — free to use, build on, or contribute to.
